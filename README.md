@@ -174,7 +174,7 @@ https://github.com/Sleeping-Beauty-G/VKinder
 
 **Команда VKinder:**  
 - Гюнай Фаталиева(https://github.com/Sleeping-Beauty-G)
-- Анна Карлаш (https://github.com/KaralashAnkа)
+- Анна Карлаш (https://github.com/KaralashAnka)
 - Иван Тельес(https://github.com/ivantr033)
 
 
